@@ -174,8 +174,6 @@ ax.legend(handles,labels=labels)
 plt.show()
 
 
-# In[ ]:
-
 
 
 
